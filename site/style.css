@@ -4,5 +4,5 @@ p {
     font-size: medium;
     
 }
-div {color: aqua;}
-div {background-color: brown;}
+#about  {color: brown;}
+#menu {color: chartreuse;}
