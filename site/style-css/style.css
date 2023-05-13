@@ -1,0 +1,10 @@
+form 
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    color: indigo;
+}
+select {color: red;}
+.menu {color: blue;}
+h1 {color: brown;}
+#menu {color:darkblue}
